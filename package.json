@@ -1,0 +1,12 @@
+{
+  "name": "unite_gaming_pc",
+  "version": "1.0.0",
+  "description": "Unite gaming backend project of personal cabinet of users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
